@@ -1,0 +1,29 @@
+{
+  "name": "nihalpancarcom",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliberkpancar/nihalpancarcom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliberkpancar/nihalpancarcom/issues"
+  },
+  "homepage": "https://github.com/aliberkpancar/nihalpancarcom#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
